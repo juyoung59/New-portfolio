@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&family=Nanum+Pen+Script&family=Noto+Sans+KR:wght@300&family=Noto+Serif+KR:wght@400;500&family=Pacifico&display=swap');
+
+.About {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 8vw;
+}
+
+.about-card {
+  align-items: center;
+  box-shadow:
+    0 0 8px rgba(0, 0, 0, 0.1),
+    0 0 8px rgba(0, 0, 0, 0.1),
+    8px 0 8px rgba(0, 0, 0, 0.1),
+    -8px 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.about-title {
+  text-align: center;
+  font-family: "Noto Serif KR", serif;
+  font-size: 2.5vw;
+  color: #1F1F1F;
+  margin-top: 3vw;
+}
+
+.profile-about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2vw 6vw 4vw;
+}
+
+.Profile {
+  width: 17vw;
+  margin-right: 5.5vw;
+}
+
+.about-me {
+  font-family: "Nanum Gothic", sans-serif;
+  font-size: 1.3vw;
+  color: #1F1F1F;
+  line-height: 2;
+  list-style-type: none;
+}
+.about-me li{
+  display: flex;
+  align-items: center;
+}
+.about-me li a {
+  display: flex;
+  align-items: center;
+}
+
+.licontents {
+  margin-left: 1vw;
+}
+
+.goToGit {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+
