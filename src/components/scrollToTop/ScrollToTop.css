@@ -1,0 +1,12 @@
+.ScrollToTop {
+  position: fixed;
+  bottom: 2vw;
+  right: 3vw;
+  z-index: 1000;
+}
+
+.TopIcon {
+  font-size: 2vw;
+  color: #878787;
+  cursor: pointer;
+}
