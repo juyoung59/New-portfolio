@@ -63,7 +63,7 @@ const projectData = [
     used: 'JavaScript, HTML, CSS, React',
     team: '1명',
     work: 'ALL',
-    link: 'https://github.com/juyoung59/Wedding-Invitation',
+    link: 'http://wedding-invitation-exp.s3-website.ap-northeast-2.amazonaws.com/',
     source: 'https://github.com/juyoung59/Wedding-Invitation',
   },
   {
@@ -75,7 +75,7 @@ const projectData = [
     used: 'JavaScript, HTML, CSS, React',
     team: '1명',
     work: 'ALL',
-    link: 'https://juyoung-portfolio.netlify.app/',
+    link: 'http://ljy-portfolio.s3-website.ap-northeast-2.amazonaws.com/',
     source: 'https://github.com/juyoung59/New-portfolio',
   },
 ];
