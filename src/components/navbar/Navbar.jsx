@@ -12,8 +12,7 @@ function Navbar() {
                     <nav className="nav">
                         <a className="nav-link" href="#about">About &nbsp;| &nbsp; </a>
                         <a className="nav-link" href="#skills">Skills &nbsp;| &nbsp;</a>
-                        <a className="nav-link" href="#projects">Projects &nbsp;| &nbsp;</a>
-                        <a className="nav-link" href="#contact">Contact</a>
+                        <a className="nav-link" href="#projects">Projects</a>
                     </nav>
                 </div>
             </div>
