@@ -4,7 +4,7 @@ import Project from "./ProjectsAni";
 import projectData from "./ProjectsData";
 
 function Projects() {
-  return(
+  return (
     <div className="Projects" id="projects">
       <h1 className="title">Projects</h1>
       <div className="projects">

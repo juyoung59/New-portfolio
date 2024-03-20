@@ -14,7 +14,7 @@ const projectData = [
     period: '2023.05.30 - 2023.07.10',
     used: 'HTML, CSS, BootStrap, JavaScript, Django',
     team: '7명',
-    work: 'Front End & Presentaiton',
+    work: 'Front End & Presentation',
     link: 'https://www.youtube.com/watch?v=UZFrVjhsu5U',
     source: 'https://github.com/juyoung59/ktaivle-big-project',
   },
